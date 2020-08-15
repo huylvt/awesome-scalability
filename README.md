@@ -520,7 +520,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Traffic Steering using Rum DNS at LinkedIn](https://www.usenix.org/conference/srecon17europe/program/presentation/rastogi)
 	* [Traffic Infrastructure (Edge Network) at Dropbox](https://blogs.dropbox.com/tech/2018/10/dropbox-traffic-infrastructure-edge-network/)
 	* [Intelligent DNS based load balancing at Dropbox](https://blogs.dropbox.com/tech/2020/01/intelligent-dns-based-load-balancing-at-dropbox/)
-	* [How we migrated Dropbox from Nginx to Envoy](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
+	* [Migrating to Envoy from Nginx at Dropbox](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 	* [Monitor DNS systems at Stripe](https://stripe.com/en-sg/blog/secret-life-of-dns)
 	* [Multi-DNS Architecture (3 parts) at Monday](https://medium.com/monday-engineering/how-and-why-we-migrated-our-dns-from-cloudflare-to-a-multi-dns-architecture-part-3-584a470f4062)
 * [Rate Limiting](https://www.keycdn.com/support/rate-limiting/)
